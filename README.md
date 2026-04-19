@@ -13,7 +13,7 @@
 
 </div>
 
-`Luka Homepage` is a standalone template version extracted from my own personal homepage. It is designed to feel warm, clean, and academic without adding any build tooling or framework overhead.
+`Homepage` is a standalone template version extracted from my own personal homepage. It is designed to feel warm, clean, and academic without adding any build tooling or framework overhead.
 
 ## Why This Template
 
@@ -38,12 +38,6 @@
 ### 1. Create your own copy
 
 Use GitHub's [Use This Template](https://github.com/wzsyyh/luka-homepage-template/generate) button, or copy this folder into a new repository.
-
-Suggested repository names:
-
-- `luka-homepage`
-- `luka-homepage-template`
-- `luka-academic-homepage`
 
 ### 2. Customize the content
 
@@ -98,7 +92,6 @@ You will mainly edit:
 The footer includes two lines by default:
 
 1. Your own site copyright
-2. `Luka Homepage Template by Yuheng Yang`
 
 If you want to preserve template attribution, keep the second line.
 
